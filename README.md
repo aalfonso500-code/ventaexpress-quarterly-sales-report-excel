@@ -132,7 +132,3 @@ Recommend adding **age** and **gender** fields to the sales intake form to enabl
 - Structuring a multi-sheet workbook for auditability and reuse
 
 ---
-
-## 👀 How to View This Project
-
-GitHub does not render Excel formulas, formatting, or embedded charts — it only shows a plain grid preview (or none, for large files). To review this project without downloading Excel:
