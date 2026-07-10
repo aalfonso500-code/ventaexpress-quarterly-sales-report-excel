@@ -12,7 +12,7 @@
 
 | File | Description |
 |---|---|
-| [`quarterly-sales-analysis-ventaexpress-2024.xlsx`](./quarterly-sales-analysis-ventaexpress-2024) | Full workbook: raw data, cleaned data, KPI calculations, charts, and executive summary |
+| `quarterly-sales-analysis-ventaexpress-2024` | Full workbook: raw data, cleaned data, KPI calculations, charts, and executive summary |
 
 > 💡 **Note on language:** this README is written in English for portfolio purposes, but the Excel workbook itself remains in Spanish, its original working language.
 
