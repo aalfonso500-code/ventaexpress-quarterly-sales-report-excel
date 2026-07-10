@@ -12,9 +12,11 @@
 
 | File | Description |
 |---|---|
-| [`quarterly-sales-analysis-ventaexpress-2024.xlsx`](./quarterly-sales-analysis-ventaexpress-2024.xlsx) | Full workbook: raw data, cleaned data, KPI calculations, charts, and executive summary |
+| [`quarterly-sales-analysis-ventaexpress-2024.xlsx`](./quarterly-sales-analysis-ventaexpress-2024) | Full workbook: raw data, cleaned data, KPI calculations, charts, and executive summary |
 
 > 💡 **Note on language:** this README is written in English for portfolio purposes, but the Excel workbook itself remains in Spanish, its original working language.
+
+> [![Open in Google Sheets](https://img.shields.io/badge/Open-Google%20Sheets-34A853?logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRvTMai_O05CDQKLlM4vGKLfNdac24pdmpgBpP7s5LzA_jKqW6esvlNjn6QYT5wDQ/pubhtml)
 
 ---
 
